@@ -1,0 +1,1 @@
+This is Hydra's first(actually second) git project!
