@@ -1,0 +1,17 @@
+So I've spent a whole hell of a lot of time trying to understand Git.
+
+I read articles, watched videos and all that good stuff.
+Got myself to memorize the commands, understand the process trough and through.
+Even went looking for help in the Odin Discord server. 
+I created a cheatsheet of all the commands I leant and understood, added my own definition for it.
+I felt semi competent to get to the last step of the Git_Basic part of the course.
+I played around with repositories and the github to send them to. 
+I finally understood a bit of it.
+
+I managed to get myself some Doritos and a drink, get set up to finish this bit of the course and crush it.
+Expecting my knowledge of the subject to barely suffice, I was wondering where I would get stuck.
+But lowe and behold, the assignment was in essence what I had done before.
+I managed to breeze trough it with barely reading the instructions. GGWP!
+
+This goes to show that you sometimes underestimate yourself.
+All you need is a wonder how things work, and some Doritos!
